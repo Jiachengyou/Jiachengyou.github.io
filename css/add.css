@@ -1,0 +1,36 @@
+
+.photo-radius {
+    border-radius: 100%;
+}
+
+.content-intro {
+    width: 90%;
+    padding: 0 20px;
+    text-align: left;
+    text-align:justify;
+}
+
+.content-title{
+    font-size: 2em;
+}
+
+.font-scale{
+    text-align: left;
+    text-align:justify;
+    font-size: 1.5em;
+}
+
+.block_hover:hover{
+    /* background-color: rgb(28, 191, 155);
+    opacity: 2; */
+}
+
+.contactme {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contactme img{
+    margin: 0 20px;
+}
